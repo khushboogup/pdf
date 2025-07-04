@@ -7,7 +7,7 @@ import PyPDF2
 import os
 
 # Set your Gemini API key
-os.environ["GOOGLE_API_KEY"] = "AIzaSyCUTRMxVYk9Pmjp8Zy9xKouoUUUeZC3FQQ"
+os.environ["GOOGLE_API_KEY"] = "api-key"
 
 # Extract text from PDF
 def extract_text_from_pdf(pdf_path):
